@@ -87,5 +87,19 @@ Quit the WebDriver
 driver.quit()
 
 
+"""
+Output-
+Successfully downloaded PDF
+Image 1 downloaded successfully.
+Image 2 downloaded successfully.
+Image 3 downloaded successfully.
+Image 4 downloaded successfully.
+Image 5 downloaded successfully.
+Image 6 downloaded successfully.
+Image 7 downloaded successfully.
+Image 8 downloaded successfully.
+Image 9 downloaded successfully.
+Image 10 downloaded successfully.
+"""
 
 
